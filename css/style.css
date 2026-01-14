@@ -1,0 +1,12 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    width: 1600px;
+    height: 92px;
+}
+div{
+    display: flex;
+}
+.nav-img{
+    margin-left: 120px;
+}
